@@ -4,3 +4,4 @@ out
 src/test/**
 .DS_Store
 .idea/
+src/main/webapp/js/app2.js
